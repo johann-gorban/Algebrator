@@ -87,3 +87,4 @@ public:
 
     void emit_token_from_buffer(LexerContext &context) override;
 };
+
